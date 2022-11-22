@@ -65,7 +65,7 @@ class _MyHomePageState extends State<MyHomePage> {
            ),
          ),
          Expanded(
-           flex: 2,/
+           flex: 2,
            child: Container(
              height: 1,
                width: 500,
@@ -79,6 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
+// ASSIGNMENT
 // class MyHomePage extends StatefulWidget {
 //   const MyHomePage({super.key});
 //
