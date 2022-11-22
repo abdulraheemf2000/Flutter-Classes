@@ -79,7 +79,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 }
 
-// ASSIGNMENT
+// LESSON 2 ASSIGNMENT
 // class MyHomePage extends StatefulWidget {
 //   const MyHomePage({super.key});
 //
